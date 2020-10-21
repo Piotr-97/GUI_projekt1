@@ -11,3 +11,4 @@ Po uruchomieniu programu, użytkownik powinien mieć możliwość za pośrednict
 –wyjęcia przedmiotów lub pojazdów.<br>
 –wykonania polecenia zapisującego aktualny stan osiedla do pliku<br>
   </p>
+
