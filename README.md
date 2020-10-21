@@ -1,4 +1,4 @@
-# GUI_projekt1(W trakcie tworzenia)
+<h1># GUI_projekt1</h1>
 Projekt  służyły do zarządzania przez dewelopera siecią osiedli mieszkaniowych
 Po uruchomieniu programu, użytkownik powinien mieć możliwość za pośrednictwem ko-soli poleceń wywołania wszystkich wspomnianych funkcjonalności. Są to m.in:
 –zakończenia programu w dowolnym momencie
